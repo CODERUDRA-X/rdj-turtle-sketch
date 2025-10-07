@@ -24,6 +24,14 @@ Is project ko aur bhi aakarshak banane ke liye, drawing process ka ek GIF yahaan
 
 ---
 
+## 🖥️ Usage
+
+To run the application, simply execute the Python script:
+
+```sh
+python rdj_sketch.py
+Enjoy the turtle art!
+
 ## 🚀 How to Run
 
 1.  **Clone the repository**:
